@@ -5,31 +5,33 @@ struct ContentView: View {
     let calculator = Calculator.Companion()
     let greet = Greeting().greeting()
     
-    @State private var firstNum: String = "0"
-    @State private var secondNum: String = "0"
-    private var sum: String {
-        if let firstNum = Int32(firstNum), let secondNum = Int32(secondNum) {
-            return String(calculator.sum(a: firstNum, b: secondNum))
-        } else {
-            return "🤔"
-        }
-    }
-    
+    @State private var firstIBAN: String = "0"
+    @State private var show: Bool = false
+    @State private var IBAN: String = "0"
+
     var body: some View {
         VStack(alignment: .center) {
             Text(greet)
-            HStack(alignment: .center) {
-                TextField("A", text: $firstNum)
+            Spacer()
+            VStack(alignment: .center) {
+                TextField("IBAN", text: $firstIBAN)
                     .keyboardType(.numberPad)
                     .multilineTextAlignment(.center)
-                    .frame(width: 30)
-                Text("+")
-                TextField("B", text: $secondNum)
-                    .keyboardType(.numberPad)
-                    .multilineTextAlignment(.center)
-                    .frame(width: 30)
-                Text("=")
-                Text(sum)
+                
+                Button("Format", action: {
+                    show = true
+                    IBAN = String(calculator.getFormattedIban(ibanAsString: firstIBAN))
+                }).buttonStyle(DefaultButtonStyle())
+                
+                Spacer(minLength: 10)
+                if show {
+                    Text("Formatted Iban").font(.headline)
+                    Text(IBAN)
+                        .font(.headline)
+                    Spacer(minLength: 10)
+                }
+                Spacer(minLength: 10)
+
             }
         }
     }
