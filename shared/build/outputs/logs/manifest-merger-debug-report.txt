@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/shared/src/androidMain/AndroidManifest.xml:2:1-103
+INJECTED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/shared/src/androidMain/AndroidManifest.xml:2:1-103
+INJECTED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/shared/src/androidMain/AndroidManifest.xml:2:1-103
+INJECTED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/shared/src/androidMain/AndroidManifest.xml:2:1-103
+INJECTED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/shared/src/androidMain/AndroidManifest.xml:2:1-103
+INJECTED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/shared/src/androidMain/AndroidManifest.xml:2:1-103
+INJECTED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/shared/src/androidMain/AndroidManifest.xml:2:1-103
+	package
+		ADDED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/shared/src/androidMain/AndroidManifest.xml:2:70-101
+		INJECTED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/shared/src/androidMain/AndroidManifest.xml
+		INJECTED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/shared/src/androidMain/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/shared/src/androidMain/AndroidManifest.xml
+		ADDED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/shared/src/androidMain/AndroidManifest.xml:2:1-103
+		INJECTED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/shared/src/androidMain/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/shared/src/androidMain/AndroidManifest.xml
+		ADDED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/shared/src/androidMain/AndroidManifest.xml:2:1-103
+		INJECTED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/shared/src/androidMain/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/shared/src/androidMain/AndroidManifest.xml:2:11-69
+uses-sdk
+INJECTED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/shared/src/androidMain/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/shared/src/androidMain/AndroidManifest.xml
+INJECTED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/shared/src/androidMain/AndroidManifest.xml
+INJECTED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/shared/src/androidMain/AndroidManifest.xml
+INJECTED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/shared/src/androidMain/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/shared/src/androidMain/AndroidManifest.xml
+		ADDED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/shared/src/androidMain/AndroidManifest.xml
+		INJECTED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/shared/src/androidMain/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/shared/src/androidMain/AndroidManifest.xml
+		ADDED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/shared/src/androidMain/AndroidManifest.xml
+		INJECTED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/shared/src/androidMain/AndroidManifest.xml

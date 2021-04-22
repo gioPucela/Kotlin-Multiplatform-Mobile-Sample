@@ -1,0 +1,2 @@
+com/jetbrains/androidApp/BuildConfig.java
+ com.jetbrains.androidApp.BuildConfig

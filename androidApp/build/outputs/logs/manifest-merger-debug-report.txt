@@ -1,0 +1,156 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+MERGED from [:shared] /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.2.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/ea740e2d604420379a6f05bbbab4d6f7/material-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/05caf079bbddae259790a36af50a3797/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/c902db2d30eddd2479f9304810d11fcf/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/ca7eaf4cbcbbf3b3d39934ba6122bb1b/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/4e77c1979750c5812d234e1fd1b1f218/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/9897d369e49f3a2ee23c56d70ba81a97/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/82f890e75821d0769f6fa97d6bb1b0b3/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/2cc94e576fd38e46ae35cd5e55e8c658/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/e0ee8a7ae3d0b28d58f1cce977da28d7/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/6e91291a81b3a544e5157e7a773046a6/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/1ddf8214ee3cb0c4ff6be7c276f5b507/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/0da79d036d7ecd9669b8e5cb014a4a9f/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/dc51a44e5189e76899ae2efca2ad8ef9/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/effe2fc10022cf49ba1270bf9b49718b/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/3165a53b355d12cadeedb7ea88f8bf18/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/6192a17063d919c1c9f5fbc9e6af6e0d/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/424ba33b492114163daae9950388e260/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/54c0ed67794909e17ca7dab21160920d/core-1.3.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/c675c1208ff2cbb450fbcc5f76eae557/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/8ec558e971fde5daa218e87345f7e7da/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/e5d5403c09b3364b5dd37da2f32a9f53/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/44eb502bf6460bf15d2f0b1f2e17176a/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/db793d2e50d2ba9aab45555421d4e14c/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/256c5c3b48e3b62082938e95098c658f/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/e7d25ac17d21d94ca56abdde6e945167/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/5cfa8b3b779144e6e58bc71aba1f9db8/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/dfe900d9bfe446d89daa852cca0391a9/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/effef912595e559fed3b3817c2448b16/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+	package
+		ADDED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/androidApp/src/main/AndroidManifest.xml:2:70-104
+		INJECTED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/androidApp/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+		INJECTED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/androidApp/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+		INJECTED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/androidApp/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/androidApp/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/androidApp/src/main/AndroidManifest.xml:4:5-15:19
+MERGED from [com.google.android.material:material:1.2.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/ea740e2d604420379a6f05bbbab4d6f7/material-1.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/ea740e2d604420379a6f05bbbab4d6f7/material-1.2.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/c902db2d30eddd2479f9304810d11fcf/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/c902db2d30eddd2479f9304810d11fcf/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/54c0ed67794909e17ca7dab21160920d/core-1.3.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/54c0ed67794909e17ca7dab21160920d/core-1.3.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/8ec558e971fde5daa218e87345f7e7da/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/8ec558e971fde5daa218e87345f7e7da/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/54c0ed67794909e17ca7dab21160920d/core-1.3.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/androidApp/src/main/AndroidManifest.xml:6:13-39
+	android:allowBackup
+		ADDED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/androidApp/src/main/AndroidManifest.xml:5:13-40
+	android:theme
+		ADDED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/androidApp/src/main/AndroidManifest.xml:7:13-44
+activity#com.jetbrains.kmm.androidApp.MainActivity
+ADDED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/androidApp/src/main/AndroidManifest.xml:8:9-14:20
+	android:name
+		ADDED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/androidApp/src/main/AndroidManifest.xml:8:19-75
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/androidApp/src/main/AndroidManifest.xml:9:13-13:29
+action#android.intent.action.MAIN
+ADDED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/androidApp/src/main/AndroidManifest.xml:10:17-68
+	android:name
+		ADDED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/androidApp/src/main/AndroidManifest.xml:10:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/androidApp/src/main/AndroidManifest.xml:12:17-76
+	android:name
+		ADDED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/androidApp/src/main/AndroidManifest.xml:12:27-74
+uses-sdk
+INJECTED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/androidApp/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/androidApp/src/main/AndroidManifest.xml
+INJECTED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/androidApp/src/main/AndroidManifest.xml
+MERGED from [:shared] /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:shared] /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.2.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/ea740e2d604420379a6f05bbbab4d6f7/material-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/ea740e2d604420379a6f05bbbab4d6f7/material-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/05caf079bbddae259790a36af50a3797/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/05caf079bbddae259790a36af50a3797/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/c902db2d30eddd2479f9304810d11fcf/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/c902db2d30eddd2479f9304810d11fcf/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/ca7eaf4cbcbbf3b3d39934ba6122bb1b/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/ca7eaf4cbcbbf3b3d39934ba6122bb1b/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/4e77c1979750c5812d234e1fd1b1f218/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/4e77c1979750c5812d234e1fd1b1f218/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/9897d369e49f3a2ee23c56d70ba81a97/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/9897d369e49f3a2ee23c56d70ba81a97/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/82f890e75821d0769f6fa97d6bb1b0b3/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/82f890e75821d0769f6fa97d6bb1b0b3/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/2cc94e576fd38e46ae35cd5e55e8c658/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/2cc94e576fd38e46ae35cd5e55e8c658/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/e0ee8a7ae3d0b28d58f1cce977da28d7/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/e0ee8a7ae3d0b28d58f1cce977da28d7/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/6e91291a81b3a544e5157e7a773046a6/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/6e91291a81b3a544e5157e7a773046a6/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/1ddf8214ee3cb0c4ff6be7c276f5b507/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/1ddf8214ee3cb0c4ff6be7c276f5b507/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/0da79d036d7ecd9669b8e5cb014a4a9f/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/0da79d036d7ecd9669b8e5cb014a4a9f/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/dc51a44e5189e76899ae2efca2ad8ef9/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/dc51a44e5189e76899ae2efca2ad8ef9/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/effe2fc10022cf49ba1270bf9b49718b/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/effe2fc10022cf49ba1270bf9b49718b/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/3165a53b355d12cadeedb7ea88f8bf18/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/3165a53b355d12cadeedb7ea88f8bf18/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/6192a17063d919c1c9f5fbc9e6af6e0d/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/6192a17063d919c1c9f5fbc9e6af6e0d/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/424ba33b492114163daae9950388e260/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/424ba33b492114163daae9950388e260/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/54c0ed67794909e17ca7dab21160920d/core-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/54c0ed67794909e17ca7dab21160920d/core-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/c675c1208ff2cbb450fbcc5f76eae557/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/c675c1208ff2cbb450fbcc5f76eae557/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/8ec558e971fde5daa218e87345f7e7da/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/8ec558e971fde5daa218e87345f7e7da/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/e5d5403c09b3364b5dd37da2f32a9f53/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/e5d5403c09b3364b5dd37da2f32a9f53/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/44eb502bf6460bf15d2f0b1f2e17176a/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/44eb502bf6460bf15d2f0b1f2e17176a/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/db793d2e50d2ba9aab45555421d4e14c/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/db793d2e50d2ba9aab45555421d4e14c/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/256c5c3b48e3b62082938e95098c658f/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/256c5c3b48e3b62082938e95098c658f/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/e7d25ac17d21d94ca56abdde6e945167/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/e7d25ac17d21d94ca56abdde6e945167/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/5cfa8b3b779144e6e58bc71aba1f9db8/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/5cfa8b3b779144e6e58bc71aba1f9db8/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/dfe900d9bfe446d89daa852cca0391a9/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/dfe900d9bfe446d89daa852cca0391a9/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/effef912595e559fed3b3817c2448b16/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/sergio.sastre/.gradle/caches/transforms-2/files-2.1/effef912595e559fed3b3817c2448b16/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/androidApp/src/main/AndroidManifest.xml
+INJECTED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/androidApp/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/androidApp/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/sergio.sastre/Kotlin-Multiplatform-Mobile-Sample/androidApp/src/main/AndroidManifest.xml
